@@ -1,1 +1,1 @@
-# datacollection-challenge
+# This project scrapes text elements from a Mars News website, stores it, and extracts titles and previews. It also contains an analysis of weather on Mars derived from a scraped table. A Pandas DataFrame was created from the scraped data and used to explore questions on temperature and pressure conditions on Mars over time.
